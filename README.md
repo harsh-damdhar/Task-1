@@ -46,5 +46,5 @@ This project demonstrates how I used **Power Query in Excel** to clean and prepa
 ## 📸 Screenshots
 
 ### ✅ Power Query Editor - After Cleaning
-![Power Query Step 2](<img width="1598" height="897" alt="import file in power query Screenshot 2025-08-04 162310" src="https://github.com/user-attachments/assets/b1088c4d-84cf-49a8-a1a2-597e75685e31" />)
+("img width="1598" height="897" alt="import file in power query Screenshot 2025-08-04 162310" src="https://github.com/user-attachments/assets/b1088c4d-84cf-49a8-a1a2-597e75685e31")
 
