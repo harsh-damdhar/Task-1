@@ -1,4 +1,4 @@
-<img width="1598" height="897" alt="import file in power query Screenshot 2025-08-04 162310" src="https://github.com/user-attachments/assets/b1088c4d-84cf-49a8-a1a2-597e75685e31" /># Task-1
+# Task-1
 Using Power Query, I performed a series of data preparation steps such as removing duplicates, filtering out invalid rows, splitting and merging columns, standardizing text fields, and converting data types. These transformations made the dataset clean, structured, and analysis-ready without writing a single line of code.
 
 # Hospital Data Cleaning Using Power Query
@@ -44,10 +44,7 @@ This project demonstrates how I used **Power Query in Excel** to clean and prepa
 - Converted all date formats to a consistent **MM/DD/YYYY** style to ensure compatibility with analysis tools.
 
 ## 📸 Screenshots
-### Import CSV File
-(Uploading import file in power query Screenshot 2025-08-04 162310.png)
-
 
 ### ✅ Power Query Editor - After Cleaning
-![Power Query Step 2](screenshots/powerquery_step2.png)
+![Power Query Step 2](<img width="1598" height="897" alt="import file in power query Screenshot 2025-08-04 162310" src="https://github.com/user-attachments/assets/b1088c4d-84cf-49a8-a1a2-597e75685e31" />)
 
