@@ -55,3 +55,4 @@ This project demonstrates how I used **Power Query in Excel** to clean and prepa
 <img width="1598" height="898" alt="Close and load in Excel Screenshot 2025-08-04 170803" src="https://github.com/user-attachments/assets/fe3b704f-2c6e-44e5-966c-5c21dd79403f" />
 
 ## Output CSV File
+<a href="https://github.com/harsh-damdhar/ERlytics-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv">Dataset
