@@ -45,6 +45,13 @@ This project demonstrates how I used **Power Query in Excel** to clean and prepa
 
 ## 📸 Screenshots
 
-### ✅ Power Query Editor - After Cleaning
-("img width="1598" height="897" alt="import file in power query Screenshot 2025-08-04 162310" src="https://github.com/user-attachments/assets/b1088c4d-84cf-49a8-a1a2-597e75685e31")
+### ✅ Import CSV File in Power Query
+<img width="1598" height="897" alt="import file in power query Screenshot 2025-08-04 162310" src="https://github.com/user-attachments/assets/39222857-e1e5-43a0-994a-cf77b18de09e" />
 
+### ✅ Perform Transformation to File
+<img width="1598" height="897" alt="Power query 2 Screenshot 2025-08-04 170650" src="https://github.com/user-attachments/assets/f8ce0448-5d90-4e9a-afeb-6d0db71f4896" />
+
+### ✅ Close and Load Clened File
+<img width="1598" height="898" alt="Close and load in Excel Screenshot 2025-08-04 170803" src="https://github.com/user-attachments/assets/fe3b704f-2c6e-44e5-966c-5c21dd79403f" />
+
+## Output CSV File
